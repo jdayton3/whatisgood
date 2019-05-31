@@ -8,7 +8,8 @@
     "build": "npm install"
   },
   "engines": {
-    "node": "8.9.3"
+    "node": "8.9.3",
+    "npm": "6.9.0"
   },
   "author": "Jonathan Dayton",
   "license": "ISC",
