@@ -17,3 +17,5 @@ WhenIsGood uses artificial intelligence to predict what activities will give you
 Favicons were generated through <https://favicon.io/favicon-generator/>.
 
 Logo was generated through <https://logohub.io/#>.
+
+The initial landing page was set up using <https://www.clock.co.uk/insight/a-simple-website-in-nodejs-with-express-jade-and-stylus>.

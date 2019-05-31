@@ -1,6 +1,7 @@
 {
   "name": "whatisgood",
   "version": "0.1.0",
+  "private": true,
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -14,6 +15,10 @@
   "author": "Jonathan Dayton",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "morgan": "^1.9.1",
+    "nib": "^1.1.2",
+    "stylus": "^0.54.5"
   }
 }
